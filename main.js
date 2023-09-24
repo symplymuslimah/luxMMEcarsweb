@@ -118,17 +118,17 @@ ScrollReveal({ distance: '120px' });
 ScrollReveal().reveal('.container', { origin: 'top', delay:200, interval:300,
 duration:3000 });
 ScrollReveal().reveal('.car-logo-section,.motor-image-section,.purchase-luxurious-section,.news-event-section,.footer-section',
- { origin: 'bottom', delay:200, interval:300,
+ { origin: 'bottom', delay:100, interval:200,
 duration:3000 });
-ScrollReveal().reveal('.logo,li,i', { origin: 'top', delay:200, interval:300,
+ScrollReveal().reveal('.logo,li,i', { origin: 'top', delay:100, interval:200,
 duration:3000 });
-ScrollReveal().reveal('.slide', { origin: 'bottom', delay:200, interval:300,
+ScrollReveal().reveal('.slide', { origin: 'bottom', delay:100, interval:300,
 duration:3000 });
-ScrollReveal().reveal('.heading-content,.logo-purchase,.contact-section', { origin: 'left', delay:300, interval:300,
+ScrollReveal().reveal('.heading-content,.logo-purchase,.contact-section', { origin: 'left', delay:200, interval:300,
 duration:3000 });
-ScrollReveal().reveal('.view,.purchase-image-and-text', { origin: 'right', delay:300, interval:300,
+ScrollReveal().reveal('.view,.purchase-image-and-text', { origin: 'right', delay:200, interval:200,
 duration:3000 });
-ScrollReveal().reveal('.purchase-text p,.footer-content', { origin: 'left', delay:300, interval:400,
+ScrollReveal().reveal('.purchase-text p,.footer-content', { origin: 'left', delay:100, interval:200,
 duration:3000 });
-ScrollReveal().reveal('.first p,.seccond p,.third p', { origin: 'bottom', delay:200, interval:300,
+ScrollReveal().reveal('.first p,.seccond p,.third p', { origin: 'bottom', delay:100, interval:200,
 duration:3000 });
