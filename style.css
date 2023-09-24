@@ -421,6 +421,7 @@ nav ul li a:hover {
 .news-event-content img {
     width: 300px;
     height:300px;
+    border-radius:5px;
     object-fit: cover;
 }
 .news-event-content span{
