@@ -120,7 +120,7 @@ duration:3000 });
 ScrollReveal().reveal('.car-logo-section,.motor-image-section,.purchase-luxurious-section,.news-event-section,.footer-section',
  { origin: 'bottom', delay:100, interval:200,
 duration:3000 });
-ScrollReveal().reveal('.logo,li,i', { origin: 'top', delay:100, interval:200,
+ScrollReveal().reveal('.logo,li,.icon-heading i', { origin: 'top', delay:100, interval:200,
 duration:3000 });
 ScrollReveal().reveal('.slide', { origin: 'bottom', delay:100, interval:300,
 duration:3000 });
